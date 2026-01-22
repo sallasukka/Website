@@ -1,0 +1,119 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 1px;
+    background-color: #E8D7F1;
+    border-radius: 2px;
+}
+
+.header {
+    background-color: #92baae;
+    color: #0E273C;
+    text-align: center;
+    padding: 10mm;
+    font-size: 23px;
+}
+
+.content {
+    width: 60%;
+    margin: 0 auto;
+    /*background-color: #c7d7d3;*/
+    padding: 20px;
+    border-radius: 24px;
+    background:
+        linear-gradient(45deg, rgb(244, 203, 203),
+            rgb(195, 157, 195)) border-box;
+
+}
+
+
+nav a {
+    color: #0E273C;
+    margin: 0;
+    text-decoration: none;
+    padding: 5mm;
+}
+
+a.menu_link:hover {
+    background-color: #A167A5;
+    font-size: 8px;
+}
+
+
+section {
+    padding: 10mm;
+    margin: 1mm;
+    background-color: #deccd8;
+    border-radius: 2mm;
+    margin-bottom: 20px;
+    border-color: #0E273C;
+    border: 0.5px solid;
+}
+
+h2 {
+    color: #0E273C;
+    text-align: center;
+    font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    background-color: #E8D7F1;
+    margin: 0.5mm;
+    padding: 0.5mm;
+    border-radius: 4px;
+    text-align: center;
+}
+
+h1 {
+    color: #0E273C;
+    text-align: center;
+    size: 30px;
+}
+
+p {
+    color: #0E273C;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #92baae;
+    color: #0E273C;
+    padding: 8mm;
+}
+
+.pic {
+    width: 65%;
+    height: 65%;
+    border: 2px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border: 2px solid #0E273C;
+    border-radius: 2px;
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+/* pale purple = E8D7F1 (vaalea valkoinen)
+thistle = D3BCCC (vaalea beige)
+pomp and power = A167A5 (keskilila)
+tekhelet = 4A306D (tumma lila)
+prussian blue = 0E273C (tumma sininen)*/
+
+/* 512D38
+/*eggplant
+B27092
+/*sky magenta
+F4BFDB
+/*fairy tale
+FFE9F3
+/*lavender blush
+87BAAB 
+/*Cambridge blue
