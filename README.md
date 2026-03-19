@@ -1,2 +1,7 @@
 # Website
-website exercise for html course
+A website project for html course.
+
+Technologies used:
+- HTML
+- CSS
+
